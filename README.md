@@ -2,9 +2,9 @@
 
 ### 在线体验地址
 
-- http://xs.kundadahh.club/pc pc版的
+- https://ai.baidu.com/face-verify/pc.html pc版的
 
-- http://xs.kundadahh.club/mobile 移动版
+- https://ai.baidu.com/face-verify/mobile.html 移动版
 
 #### 项目介绍
 H5视频活体检测
